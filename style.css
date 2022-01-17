@@ -1,3 +1,17 @@
 p{
-    width: 750px;/*Genişlik verdiğimiz yer.*/
+    width: 1480px;/*Genişlik verdiğimiz yer.*/
+}
+
+.birincispan{
+    margin-left: 250px;
+}
+
+h3{
+    background-color: orange;
+    width: 200px;
+    border-radius: 5px;
+}
+
+ol{
+    margin-left: 400px;
 }
